@@ -16,5 +16,9 @@ This repository focus on Binary Trees Data Structures. Each file is a solution o
 * Knowing the family tree
 
 ## How to run
-`clone` the repository by clicking on the green button
+* `clone` the repository by clicking on the `code` green button
+* Install `gcc`to be able to run on your terminal
+* Create a sample code to test the files
+* Create an executable by following the sample(change the `<sample>` with the real filenames). `gcc <filename.c> <main_sample.c> -o main`
+* Run the executable created: `./main`
 
